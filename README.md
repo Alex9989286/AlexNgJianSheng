@@ -194,35 +194,29 @@ End-to-end agentic AI system for CVD risk prediction — Data Mining · FastAPI 
 
 ## 🧪 Testing & QA
 
-### Automated Testing Suite
+### 🤖 Automated Testing Suite
 **End-to-end test automation for web applications**
 `Selenium` `JMeter` `Test Automation`
 
 - Automated UI regression tests with Selenium WebDriver
 - JMeter load & stress testing; CI-integrated test pipelines
 
----
 
-## Unity 3D VR Game & Mobile App Tester (Course Project)
-
+### 🎮 Unity 3D VR Game & Mobile App Tester (Course Project)
 **Playtesting and QA for VR game and mobile applications**
 
 - Performed QA testing for VR game, identifying gameplay bugs, UI inconsistencies, and VR-specific performance issues
 - Conducted mobile app testing, identifying usability issues and functionality bugs across different devices
 
----
 
-## Software Quality Assurance Report
-
+### 📄 Software Quality Assurance Report
 **Comprehensive testing across manual, automated & performance**  
-Selenium · JMeter · Python · Postman
+`Selenium` · `JMeter` · `Python` · `Postman`
 
-### QA Highlights
-
-- Authored formal SQA Report documenting 60+ test cases across unit, integration, system, and UAT levels with 97% pass rate
-- Executed manual testing (40+ test cases) and automated testing using Selenium (27 test cases), uncovering 4 critical/major defects
-- Conducted step-up load testing using Apache JMeter (1–50 concurrent users), achieving stable 5ms average response time
-
+**QA Highlights:**
+- Authored formal SQA Report documenting 60+ test cases across unit, integration, system, and UAT levels with **97% pass rate**
+- Executed manual testing (40+ test cases) and automated testing using Selenium (27 test cases), uncovering **4 critical/major defects**
+- Conducted step-up load testing using Apache JMeter (1–50 concurrent users), achieving stable **5ms average response time**
 
 ---
 
