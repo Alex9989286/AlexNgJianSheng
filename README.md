@@ -69,7 +69,7 @@ Real-time environmental sound classification for hearing-impaired users — from
 
 ### 🔗 Links
 
-📱 [Demo Video]([your-demo-link-here](https://drive.google.com/file/d/1mhGucrVhfExfgl8w9kSFB2wlRM733QKD/view?usp=drive_link))  
+📱 [Demo Video](https://drive.google.com/file/d/1mhGucrVhfExfgl8w9kSFB2wlRM733QKD/view?usp=drive_link)
 
 ---
 
