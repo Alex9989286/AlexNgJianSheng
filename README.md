@@ -1,3 +1,11 @@
+👋 Hi, I'm Alex Ng Jian Sheng
+Software Engineering student · QA enthusiast · Building things that work
+
+📍 Penang, Malaysia | 📅 Intern: 28 Sep – 18 Dec 2026
+📧 jianshengalexng17317@gmail.com | 📱 +6012-5501738
+
+---
+
 # 🎧 SoundGuard: AI-Powered Sound Detection System
 
 Real-time environmental sound classification for hearing-impaired users — from model training to mobile deployment
