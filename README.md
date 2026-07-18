@@ -192,9 +192,9 @@ End-to-end agentic AI system for CVD risk prediction — Data Mining · FastAPI 
 
 ---
 
-# Mobile Development (Flutter)
+# 🍕Mobile Development (Flutter)
 
-## PizzaGo's Kitchen App
+##  PizzaGo's Kitchen App
 
 **Full-featured mobile food ordering system**  
 Flutter · Dart · SQLite · Firebase · OpenStreetMap
