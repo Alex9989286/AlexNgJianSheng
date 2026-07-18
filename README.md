@@ -92,7 +92,10 @@ Real-time environmental sound classification for hearing-impaired users — from
 
 ---
 
-### Project Management System
+<h2 style="color:#6f42c1; font-size: 36px;">
+  Project Management System
+  <a href="https://github.com/katherine101001/project-management-system.git" style="font-size: 18px; margin-left: 10px; text-decoration: none;">🔗</a>
+</h2>
 
 Full-stack enterprise platform — Clean Architecture · C# .NET · Containerized Microservices
 
