@@ -1,166 +1,166 @@
-# 👋 Hi, I'm Alex Ng Jian Sheng
+👋 Hi, I'm Alex Ng Jian Sheng
+Software Engineering student · QA enthusiast · Building things that work
 
-🎓 **Final Year Software Engineering Student** @ Xiamen University Malaysia  
-📍 Penang, Malaysia  
-📅 Internship Availability: 28 Sep 2026 – 18 Dec 2026  
+📍 Penang, Malaysia | 📅 Intern: 28 Sep – 18 Dec 2026
 📧 jianshengalexng17317@gmail.com | 📱 +6012-5501738
 
 ---
 
-## 👨‍💻 About Me
+🚀 Featured Projects
 
-I am a final-year Software Engineering student passionate about **Software Quality Assurance (SQA)** and **embedded systems**. With hands-on experience across full-stack development, IoT, and AI-powered applications, I am seeking an internship opportunity to apply my testing mindset and technical skills in a professional environment.
+🎧 AI-Powered Sound Detection System — SoundGuard
+Real-time environmental sound classification for hearing-impaired users — CNN · Flutter · FastAPI
 
-🔍 **I am looking for:** Internship in Software Quality Assurance / Software Engineering
+┌─ Data Pipeline ─────────────┐   ┌─ ML Engine ───────────────┐   ┌─ Mobile Client ────────┐
+│ ESC-50 + UrbanSound8K       │ → │ CNN (7 classes)           │ → │ Flutter cross-platform │
+│ 7,194 audio samples         │   │ 93% classification acc.   │   │ Real-time detection    │
+│ MFCC + Mel-spectrogram      │   │ ONNX optimization         │   │ Visual + vibration    │
+│ 248-dim feature tensor      │   │ FastAPI deployment        │   │ SUS score: 72.75      │
+└─────────────────────────────┘   └──────────────────────────┘   └────────────────────────┘
+                                         │
+                           ┌─────────────┴─────────────┐
+                           │ Testing & QA              │
+                           │ 60+ test cases · 97% pass │
+                           │ Unit · Integration · UAT  │
+                           └───────────────────────────┘
 
----
+Python TensorFlow FastAPI Flutter ONNX Arduino
 
-## 🛠️ Skills
+Architecture highlights:
 
-### Testing & QA
-![UAT](https://img.shields.io/badge/-UAT-007396?style=flat-square&logo=checkmarx&logoColor=white)
-![SUS Testing](https://img.shields.io/badge/-SUS_Testing-4A90D9?style=flat-square)
-![Functional Testing](https://img.shields.io/badge/-Functional_Testing-4CAF50?style=flat-square)
-![Integration Testing](https://img.shields.io/badge/-Integration_Testing-FF9800?style=flat-square)
-![Regression Testing](https://img.shields.io/badge/-Regression_Testing-9C27B0?style=flat-square)
-![Black-box Testing](https://img.shields.io/badge/-Black--box_Testing-2196F3?style=flat-square)
-![Manual Testing](https://img.shields.io/badge/-Manual_Testing-E91E63?style=flat-square)
-![Automated Testing](https://img.shields.io/badge/-Automated_Testing-00BCD4?style=flat-square)
-![Performance Testing](https://img.shields.io/badge/-Performance_Testing-FF5722?style=flat-square)
-![Load Testing](https://img.shields.io/badge/-Load_Testing-795548?style=flat-square)
-![Test Case Design](https://img.shields.io/badge/-Test_Case_Design-607D8B?style=flat-square)
-![Defect Tracking](https://img.shields.io/badge/-Defect_Tracking-673AB7?style=flat-square)
-![SQA Report](https://img.shields.io/badge/-SQA_Report-3F51B5?style=flat-square)
+End-to-end ML pipeline — Data collection → feature extraction (MFCC + Mel-spectrogram) → CNN training (93% accuracy) → ONNX optimization → FastAPI deployment
+Cross-platform mobile app — Flutter with real-time audio capture, silence detection, queue management, and multimodal feedback (visual + vibration)
+Comprehensive testing — 60+ test cases across unit, integration, system, and UAT levels with 97% pass rate
+Usability validation — System Usability Scale (SUS) evaluation with 10 participants, scoring 72.75 (above average)
+Direction detection — Stereo volume-based left/right/centre detection with compass UI feedback
 
-### Tools
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/-Apache_JMeter-D22128?style=flat-square&logo=apache-jmeter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![.NET Core](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+📊 Enterprise Agile Project Management System (SaaS)
+Full-stack project management platform — RBAC · .NET Core · React · AWS
 
-### Languages (Spoken)
-![English](https://img.shields.io/badge/-English-2E7D32?style=flat-square)
-![Bahasa Malaysia](https://img.shields.io/badge/-Bahasa_Malaysia-FFC107?style=flat-square)
-![Chinese](https://img.shields.io/badge/-Chinese-D32F2F?style=flat-square)
+┌──────────────────────────────────────────────────────────┐
+│                 Layered Architecture                    │
+├────────────┬──────────────┬───────────────┬──────────────┤
+│  3 Tiers   │   RBAC       │   Container   │   Cloud      │
+│  Admin     │  Role-based  │   Docker      │   AWS EC2   │
+│  PM        │  Permission  │   Deployment  │   Scalable  │
+│  Member    │  Segregation │               │             │
+├────────────┴──────────────┴───────────────┴──────────────┤
+│              End-to-End Delivery                         │
+│  Trello-inspired workflow · Full-stack (React + .NET)   │
+└──────────────────────────────────────────────────────────┘
 
----
+.NET Core React AWS Docker SQL Server Postman
 
-## 📂 Featured Projects
+Architecture highlights:
 
-### 🎧 AI-Powered Sound Detection System
-*Academic Capstone Project | Flutter, FastAPI, CNN, TensorFlow, ONNX, Python | Jun 2026*
+Role-Based Access Control (RBAC) — 3 user tiers (Admin, Project Manager, Member) with secure permission segregation across all modules
+Full-stack delivery — Trello-inspired workflow management with .NET Core backend and React frontend
+Cloud deployment — Containerized with Docker, deployed on AWS EC2 for scalable infrastructure
+API testing — Comprehensive endpoint validation using Postman across all CRUD operations
 
-- Engineered a CNN-based sound classification system using MFCC and Mel-spectrogram features, achieving **93% accuracy** across 7 environmental sound categories
-- Developed cross-platform Flutter app with real-time detection and multimodal feedback, attaining **SUS score of 72.75** and delivering results within 4 seconds
-- Executed 60+ test cases with 97% pass rate across unit, integration, system, and UAT levels
 
-📎 [Project Demo](https://github.com/AlexNgJianSheng/SoundGuard) *(coming soon)*
+🚗 Autonomous Robotic Vehicle
+IoT-controlled car with line tracking & obstacle avoidance — ESP32-CAM · Arduino · C++
 
----
+┌─ Hardware ─────────────┐   ┌─ Control ───────────────┐   ┌─ Navigation ───────────┐
+│ Arduino Uno            │ → │ ESP32-CAM Web Server    │ → │ 3x IR sensors          │
+│ ESP32-CAM              │   │ Live video streaming    │   │ Ultrasonic sensor      │
+│ L298N Motor Driver     │   │ Custom HTML interface   │   │ Line tracking logic    │
+│ HC-SR04 Ultrasonic     │   │ Wi-Fi remote control    │   │ Obstacle avoidance     │
+└────────────────────────┘   └─────────────────────────┘   └─────────────────────────┘
 
-### 📊 Enterprise Agile Project Management System (SaaS)
-*.NET Core, React, AWS, SQL Server | Sep 2025*
+Arduino ESP32-CAM C++ Embedded Systems IoT
 
-- Designed full-stack platform with **Role-Based Access Control (RBAC)** across 3 user tiers (Admin, PM, Member)
-- Developed Trello-inspired workflow management with **Docker containerization** and **AWS EC2 deployment**
-- Performed API testing using Postman and UI validation across all modules
+Architecture highlights:
 
-📎 [Project Demo](https://github.com/AlexNgJianSheng/TaskFlow) *(coming soon)*
+Dual-microcontroller integration — ESP32-CAM handles web server + video streaming; Arduino Uno manages motor control + sensor processing
+Real-time remote control — Custom HTML interface with live video feed over Wi-Fi
+Autonomous navigation — Line tracking with 3 IR sensors; obstacle avoidance with rotating ultrasonic sensor
 
----
 
-### 🚗 Autonomous Robotic Vehicle
-*Arduino IDE, ESP32-CAM, C++, Embedded C | Apr 2025*
+📦 SmartBox: IoT-Enabled Smart Parcel Locker
+Smart locker with web control & weather protection — Arduino · ESP8266 · IoT Sensors
 
-- Integrated ESP32-CAM with Arduino Uno for real-time web-based remote control with live video streaming
-- Implemented line tracking (3 IR sensors) and obstacle avoidance (ultrasonic sensor) algorithms
+┌─ Hardware ─────────────┐   ┌─ Web Control ───────────┐   ┌─ Security ─────────────┐
+│ Arduino Uno            │ → │ ESP8266 Web Interface  │ → │ 6-digit PIN auth      │
+│ ESP8266                │   │ Remote lock/unlock     │   │ Ultrasonic sensing    │
+│ 12V Solenoid Lock      │   │ Real-time status       │   │ Rain-triggered close  │
+│ Ultrasonic + Rain      │   │ Sub-2s response        │   │ Fail-safe operation   │
+└────────────────────────┘   └─────────────────────────┘   └─────────────────────────┘
 
-📎 [Project Demo](https://github.com/AlexNgJianSheng/AutonomousVehicle) *(coming soon)*
+Arduino ESP8266 C++ IoT Embedded Systems
 
----
+Architecture highlights:
 
-### 📦 SmartBox: IoT-Enabled Parcel Locker System
-*Arduino Uno, ESP8266, C++, IoT, Sensors | Apr 2025*
+Project leadership — Led 5-member team to deliver functional physical prototype from concept to deployment
+Hardware-software integration — ESP8266 web interface communicates with Arduino Uno for real-time locker control
+Automated safety features — Randomized PIN authentication, rain-triggered closure, ultrasonic occupancy detection
 
-- Led 5-member team to architect and deliver functional IoT smart locker prototype
-- Integrated ESP8266 web-based control, ultrasonic/rain sensors, and 12V solenoid locks with embedded C++ logic
-- Achieved sub-2-second command latency with randomized PIN authentication
 
-📎 [Project Demo](https://github.com/AlexNgJianSheng/SmartBox) *(coming soon)*
+🧪 Software Quality Assurance (SQA) Report
+Comprehensive testing across manual, automated & performance — Selenium · JMeter · Python
 
----
+┌─ Manual Testing ────────┐   ┌─ Automated Testing ─────┐   ┌─ Performance Testing ──┐
+│ 40+ test cases         │ → │ Selenium WebDriver     │ → │ Apache JMeter         │
+│ Exploratory testing    │   │ 27 test cases          │   │ 1–50 concurrent users │
+│ Input validation       │   │ Equivalence partition  │   │ 5ms avg response      │
+│ Defect tracking        │   │ Boundary value analysis│   │ Load test analysis    │
+└────────────────────────┘   └─────────────────────────┘   └─────────────────────────┘
+                                    │
+                      ┌─────────────┴─────────────┐
+                      │ 97% overall pass rate     │
+                      │ SQA Report documentation  │
+                      └───────────────────────────┘
 
-### 🧪 Web Application V&V Challenge
-*HTML, CSS, JavaScript, MySQL, Selenium (Python), JMeter | Jul 2025*
+Selenium JMeter Python Postman Test Automation
 
-- Authored comprehensive **Software Quality Assurance (SQA) Report** with 60+ test cases
-- Performed manual testing (40+ test cases), automated testing (Selenium, 27 test cases), and performance testing (JMeter, 1-50 concurrent users)
-- Achieved **97% overall pass rate** with 5ms average response time
+QA highlights:
 
-📎 [SQA Report](https://github.com/AlexNgJianSheng/SQA-Report) *(coming soon)*
+Manual testing — 40+ test cases covering input validation, duplicate account handling, and edge-case scenarios; uncovered 4 critical/major defects
+Automated testing — Selenium WebDriver with Python (27 test cases) using equivalence partitioning and boundary value analysis
+Performance testing — Apache JMeter step-up load testing (1–50 concurrent users) with 5ms average response time
+SQA documentation — Authored formal Software Quality Assurance Report documenting test case design, defect tracking, and performance analysis
 
----
 
-## 🏆 Achievements
+🏆 Achievements & Activities
 
 | Award | Year | Result |
 |-------|------|--------|
 | **Huawei ICT Competition** | 2025 | Innovation Competition (Group Participant) |
 | **SEDA Innovation Challenge (SIC)** | 2026 | Category B: Prototype (Functional Digital Simulation) |
 
+**Extra-Curricular:**
+- Unity 3D VR Game Tester — Playtesting and QA for VR game, identifying bugs and VR-specific performance issues
+- Mobile App Tester — QA testing for mobile app, identifying usability issues and functionality bugs across devices
+
+
+🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Java, C, C++, Python, JavaScript, Dart, SQL |
+| **Testing & QA** | UAT, SUS Testing, Functional, Integration, Regression, Black-box, Manual, Automated, Performance, Load Testing, Selenium, JMeter, Postman |
+| **Backend** | .NET Core, Spring Boot, FastAPI, RESTful API |
+| **Frontend** | React, HTML, CSS, JavaScript |
+| **Mobile** | Flutter |
+| **IoT & Embedded** | Arduino, ESP8266, ESP32-CAM, Embedded C, Sensor Integration |
+| **Cloud & DevOps** | AWS (EC2), Docker, Git, GitHub |
+| **AI/ML** | TensorFlow, scikit-learn, CNN, ONNX |
+| **Database** | MySQL, SQL Server |
+| **Tools** | VS Code, Arduino IDE, Android Studio, Figma, Oracle VM VirtualBox |
+
+**Languages Spoken:** English (Fluent), Bahasa Malaysia (Good), Chinese (Native)
+
+
+📬 Contact
+
+📧 jianshengalexng17317@gmail.com
+📱 +6012-5501738
+🔗 GitHub: github.com/AlexNgJianSheng
+
 ---
 
-## 🎮 Extracurricular
+📄 [Download My Resume (PDF)](link-to-your-resume)
 
-- **Unity 3D VR Game Tester** – Conducted QA testing for VR game, identifying gameplay bugs, UI inconsistencies, and VR-specific performance issues
-- **Mobile App Tester** – Performed QA testing for mobile app, identifying usability issues and functionality bugs across devices
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-ng-jian-sheng/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jianshengalexng17317@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexNgJianSheng)
-
----
-
-📄 [Download My Resume (PDF)](link-to-your-resume) *(coming soon)*
-
----
-
-⭐ **Fun Fact:** I love bridging software and hardware through IoT projects — from smart lockers to autonomous vehicles!
-
-
-## 第三步：钉选（Pin）你的项目
-
-在你 GitHub 个人主页下方：
-
-1. 点击 **"Customize your pins"**
-2. 选择你最重要的 3-4 个项目钉选展示
-3. 或者点击 **"Manage pins"** 然后拖拽排列
-
-建议钉选顺序：
-1. `SoundGuard` (FYP)
-2. `SQA-Report` (测试报告)
-3. `SmartBox` (IoT 组长项目)
-4. `AutonomousVehicle` (嵌入式)
-
-
-## 第四步：把 GitHub 链接放进简历
-
-在你的简历顶部个人信息区加上：
+⭐ From code to quality — I build it, then I break it, then I make it better.
