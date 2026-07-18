@@ -1,7 +1,8 @@
-👋 Hi, I'm Alex Ng Jian Sheng
+# 👋 Hi, I'm Alex Ng Jian Sheng
+
 Software Engineering student · QA enthusiast · Building things that work
 
-📍 Penang, Malaysia | 📅 Intern: 28 Sep – 18 Dec 2026
+📍 Penang, Malaysia | 📅 Intern: 28 Sep – 18 Dec 2026  
 📧 jianshengalexng17317@gmail.com | 📱 +6012-5501738
 
 ---
