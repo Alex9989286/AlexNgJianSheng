@@ -176,3 +176,18 @@ End-to-end agentic AI system for CVD risk prediction — Data Mining · FastAPI 
 - **Healthcare-focused optimization** — Balanced class weights for 62% Abnormal / 38% Normal imbalance; Decision Tree for interpretability
 
 - **Real-time prediction** — Streamlit → n8n webhook → FastAPI → Gemini AI → risk tier, recommendation, and draft message
+
+---
+
+## 🎮 Game Development (Unity)
+
+### ⚔️ 2D Platforming RPG
+**Level-up action RPG with equipment system**
+`Unity` `C#` `2D Game Design`
+
+🔗 **[Gameplay Demo (Google Drive)](https://drive.google.com/file/d/1-OFG7rd6i9MRoA9O-xgcUvHTQjsWCtXR/view?usp=drive_link)**
+
+- Side-scrolling platformer with combat mechanics
+- Experience & leveling system with stat progression; equipment upgrade tree
+
+---
