@@ -192,6 +192,27 @@ End-to-end agentic AI system for CVD risk prediction — Data Mining · FastAPI 
 
 ---
 
+# Mobile Development (Flutter)
+
+## PizzaGo's Kitchen App
+
+**Full-featured mobile food ordering system**  
+Flutter · Dart · SQLite · Firebase · OpenStreetMap
+
+### Project Demo
+
+- Developed a complete food ordering application with 16 screens and consistent warm-orange UI theme
+- Implemented full CRUD operations using SQLite for shopping cart management with real-time price calculation
+- Integrated Firebase Authentication for secure email/password login and user profile management
+- Integrated OpenStreetMap for interactive delivery address selection with persistent location storage
+- Added background music control (play/pause/stop), search bar with real-time filtering, and order status simulation (Preparing → Completed)
+- Built responsive navigation with BottomNavigationBar (Home, Menu, Cart, Profile) and side drawer
+- Implemented payment password verification and account balance top-up functionality
+
+📦 [Project Files (Google Drive)](https://drive.google.com/drive/folders/15RqD2AtL4sSwjbxruovY5zIGV01jwdk8?usp=drive_link)
+
+---
+
 ## 🧪 Testing & QA
 
 ### 🤖 Automated Testing Suite
