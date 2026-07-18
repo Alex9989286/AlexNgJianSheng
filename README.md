@@ -212,8 +212,6 @@ End-to-end agentic AI system for CVD risk prediction — Data Mining · FastAPI 
 
 ---
 
-# Testing & QA
-
 ## Software Quality Assurance Report
 
 **Comprehensive testing across manual, automated & performance**  
@@ -250,4 +248,4 @@ Selenium · JMeter · Python · Postman
 # 📬 Contact
 
 📧 jianshengalexng17317@gmail.com   
-🔗 [GitHub](https://github.com/AlexNgJianSheng)  
+🔗 [GitHub](https://github.com/Alex9989286)  
