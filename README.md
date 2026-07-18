@@ -5,17 +5,12 @@ Software Engineering student · QA enthusiast · Building things that work
 
 ---
 
-# 🎧 SoundGuard: AI-Powered Sound Detection System
-
-Real-time environmental sound classification for hearing-impaired users — from model training to mobile deployment
-
----
 
 ## 🏅 Featured Project
 
-### SoundGuard
+# 🎧 SoundGuard: AI-Powered Sound Detection System
 
-Real-time environmental sound classification for hearing-impaired users — CNN · Flutter · FastAPI · ONNX
+Real-time environmental sound classification for hearing-impaired users — from model training to mobile deployment (CNN · Flutter · FastAPI · ONNX)
 
 ---
 
@@ -74,9 +69,7 @@ Real-time environmental sound classification for hearing-impaired users — CNN 
 
 ### 🔗 Links
 
-📄 [Project Report (FYP Thesis)](link-to-your-thesis)  
-📱 [Demo Video](your-demo-link-here)  
-🐙 [GitHub Repository](https://github.com/AlexNgJianSheng/SoundGuard)
+📱 [Demo Video]([your-demo-link-here](https://drive.google.com/file/d/1mhGucrVhfExfgl8w9kSFB2wlRM733QKD/view?usp=drive_link))  
 
 ---
 
