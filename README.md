@@ -2,8 +2,6 @@
 
 Software Engineering student · QA enthusiast · Building things that work
 
-📍 Penang, Malaysia | 📅 Intern: 28 Sep – 18 Dec 2026  
-📧 jianshengalexng17317@gmail.com | 📱 +6012-5501738
 
 ---
 
