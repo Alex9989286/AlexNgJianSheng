@@ -55,7 +55,7 @@ Real-time environmental sound classification for hearing-impaired users — from
 
 ---
 
-### 📊 Testing & Evaluation
+###  Testing & Evaluation
 
 | Metric | Result |
 |--------|--------|
@@ -69,11 +69,11 @@ Real-time environmental sound classification for hearing-impaired users — from
 
 ### 🔗 Links
 
-📱 [Demo Video](https://drive.google.com/file/d/1mhGucrVhfExfgl8w9kSFB2wlRM733QKD/view?usp=drive_link)
+ [Demo Video](https://drive.google.com/file/d/1mhGucrVhfExfgl8w9kSFB2wlRM733QKD/view?usp=drive_link)
 
 ---
 
-### 📚 Tech Stack
+###  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -87,14 +87,14 @@ Real-time environmental sound classification for hearing-impaired users — from
 
 ---
 
-⭐ *From model training to production deployment — SoundGuard brings AI-powered sound awareness to the hearing-impaired community.*
+*From model training to production deployment — SoundGuard brings AI-powered sound awareness to the hearing-impaired community.*
 
 
 ---
 
 <h1 style="color:#6f42c1; font-size: 36px;">
   <a href="https://github.com/katherine101001/project-management-system.git" style="color:#6f42c1; text-decoration: none;">
-    Project Management System
+    🏗️Project Management System
   </a>
 </h1>
 
