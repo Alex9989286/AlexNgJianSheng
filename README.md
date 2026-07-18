@@ -88,3 +88,46 @@ Real-time environmental sound classification for hearing-impaired users — from
 ---
 
 ⭐ *From model training to production deployment — SoundGuard brings AI-powered sound awareness to the hearing-impaired community.*
+
+
+---
+
+### Enterprise Agile Project Management System (SaaS)
+
+Full-stack project management platform — RBAC · .NET Core · React · AWS
+
+---
+
+| Clean Architecture | | | |
+|--------|-------------|----------------|-----|
+| **Domain** | **Application** | **Infrastructure** | **API** |
+| Entities | Use Cases | EF Core | ASP.NET Core |
+| Value Obj | DTOs | SQL Server | RESTful |
+| Interfaces | AutoMapper | Repositories | Swagger |
+
+| 3-Tier RBAC | | |
+|-------|-----------------|--------|
+| **Admin** | **Project Manager** | **Member** |
+| Full access | Manage projects | View tasks |
+| User management | Assign tasks | Update status |
+| System config | Team management | Comments |
+
+---
+
+**C#** · **.NET 9** · **React 18** · **AWS EC2** · **Docker** · **SQL Server** · **Postman**
+
+---
+
+### Architecture highlights:
+
+- **Role-Based Access Control (RBAC)** — 3 user tiers (Admin, Project Manager, Member) with secure permission segregation enforced at both frontend router and backend controller levels
+
+- **Clean Architecture with Dependency Inversion** — Domain layer has zero external dependencies; Application layer contains use cases and DTOs; Infrastructure handles EF Core, SQL Server; API layer exposes RESTful endpoints with Swagger documentation
+
+- **Repository + Unit of Work pattern** — 6 repository implementations behind interfaces, enabling testability and future database swapping without touching business logic
+
+- **Full-stack delivery** — Trello-inspired workflow management with React + Redux Toolkit frontend (3 slices: user, projects, theme) and .NET Core backend with AutoMapper for object mapping
+
+- **DevOps-ready deployment** — Docker Compose multi-container (backend + frontend); GitHub Actions auto-deploy to AWS EC2 on push to main
+
+- **Comprehensive API testing** — End-to-end validation using Postman across all CRUD operations, dashboard rendering, task management, project search, and filter functionality for all user roles
