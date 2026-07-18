@@ -92,9 +92,9 @@ Real-time environmental sound classification for hearing-impaired users — from
 
 ---
 
-### Enterprise Agile Project Management System (SaaS)
+### Project Management System
 
-Full-stack project management platform — RBAC · .NET Core · React · AWS
+Full-stack enterprise platform — Clean Architecture · C# .NET · Containerized Microservices
 
 ---
 
@@ -120,14 +120,20 @@ Full-stack project management platform — RBAC · .NET Core · React · AWS
 
 ### Architecture highlights:
 
-- **Role-Based Access Control (RBAC)** — 3 user tiers (Admin, Project Manager, Member) with secure permission segregation enforced at both frontend router and backend controller levels
+- **5-layer Clean Architecture** — Domain → Application → Infrastructure → API → Shared; inner layers have zero external dependencies
 
-- **Clean Architecture with Dependency Inversion** — Domain layer has zero external dependencies; Application layer contains use cases and DTOs; Infrastructure handles EF Core, SQL Server; API layer exposes RESTful endpoints with Swagger documentation
+- **Role-Based Access Control (RBAC)** — 3 user tiers (Admin, Project Manager, Member) with secure permission segregation enforced at both frontend router and backend controller levels
 
 - **Repository + Unit of Work pattern** — 6 repository implementations behind interfaces, enabling testability and future database swapping without touching business logic
 
-- **Full-stack delivery** — Trello-inspired workflow management with React + Redux Toolkit frontend (3 slices: user, projects, theme) and .NET Core backend with AutoMapper for object mapping
+- **SOLID throughout** — Dependency Injection for all services; AutoMapper for object mapping; interface-based design at every boundary
 
-- **DevOps-ready deployment** — Docker Compose multi-container (backend + frontend); GitHub Actions auto-deploy to AWS EC2 on push to main
+- **React + Redux Toolkit** — Centralized state management with 3 slices (user, projects, theme); role-based protected routes (ADMIN/LEADER/MEMBER) enforced at both frontend and backend
 
-- **Comprehensive API testing** — End-to-end validation using Postman across all CRUD operations, dashboard rendering, task management, project search, and filter functionality for all user roles
+- **Real-time collaboration** — Comments with @mentions, Mailjet transactional emails, in-app notification system with read/unread tracking
+
+- **Analytics engine** — Recharts bar/pie visualizations; task completion rate, priority distribution, overdue detection; computed on-the-fly from Redux state
+
+- **DevOps-ready** — Docker Compose multi-container (backend + frontend); GitHub Actions auto-deploy to AWS EC2 on push to main; Swagger auto-generated API docs
+
+🔗 [GitHub Repository](https://github.com/katherine101001/project-management-system.git)
